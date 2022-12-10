@@ -1,0 +1,18 @@
+.uneven{
+    background-color: lightpink;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+#ID-one{
+    color: blue;
+    font-size: 36px;
+}
+
+.element-three, #ID-two{
+    font-size: 24px;
+}
+
+#ID-two{
+    background-color: lightgreen;
+    font-weight: bold;
+}
