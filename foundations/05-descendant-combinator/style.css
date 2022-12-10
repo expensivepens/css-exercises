@@ -1,3 +1,6 @@
+/* Target the elements that should be styled by using descendant combinators.
+Combine type selectors.  */
+
 div p{
     background-color: yellow;
     color: red;
